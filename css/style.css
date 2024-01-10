@@ -51,7 +51,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   text-transform: uppercase;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .heading_container p {
@@ -67,7 +67,7 @@ body {
 
 h1,
 h2 {
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 a,
@@ -137,7 +137,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
-  color: #000000;
+  color: #ffff;
   text-align: center;
 }
 
@@ -308,7 +308,7 @@ a:focus {
 
 /* .slider_section .detail-box a {
   display: inline-block;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
   background-color: #ff8a1d;
@@ -327,10 +327,7 @@ a:focus {
   width: 100%;
 }
 
-.feature_section {
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-}
+
 
 .feature_section .feature_container {
   display: -webkit-box;
@@ -378,28 +375,18 @@ a:focus {
 }
 
 .feature_section .feature_container .box .img-box svg path {
-  fill: #726dae;
+  fill: #233857;
 }
 
 .feature_section .feature_container .box .name {
   margin-top: 20px;
   text-transform: uppercase;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 0;
 }
 
-.feature_section .feature_container .box:hover, .feature_section .feature_container .box.active {
-  background-color: #ff8a1d;
-  color: #ffffff;
-}
 
-.feature_section .feature_container .box:hover .img-box svg, .feature_section .feature_container .box.active .img-box svg {
-  fill: #ffffff;
-}
 
-.feature_section .feature_container .box:hover .img-box svg path, .feature_section .feature_container .box.active .img-box svg path {
-  fill: #ffffff;
-}
 
 .about_section .row {
   -webkit-box-align: center;
@@ -419,7 +406,7 @@ a:focus {
 .about_section .detail-box a {
   margin-top: 15px;
   display: inline-block;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
   background-color: #0355cc;
@@ -464,7 +451,7 @@ a:focus {
 .professional_section .detail-box a {
   margin-top: 25px;
   display: inline-block;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
   background-color: #ff8a1d;
@@ -557,7 +544,7 @@ a:focus {
 
 .service_section .btn-box a {
   display: inline-block;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
   background-color: #0355cc;
@@ -689,7 +676,7 @@ a:focus {
 .contact_section button {
   border: none;
   display: inline-block;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   padding: 10px 55px;
   background-color: #0355cc;
